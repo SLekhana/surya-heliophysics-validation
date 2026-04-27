@@ -316,9 +316,7 @@ Output: 1343-D spectrum + confidence intervals
 
 **Lekhana Sandra**  
 MS in Data Science · New Jersey Institute of Technology (NJIT)  
-Advisor: Dr. Haimin Wang, NJIT Institute for Space Weather Sciences  
 
-This work was completed as part of my Master's thesis validating NASA-IBM's Surya foundation model and developing novel research extensions for publication. The validation demonstrates that Surya achieves state-of-the-art performance across all four SuryaBench tasks, with particular excellence in EUV spectra prediction (R² = 0.9737).
 
 ---
 
